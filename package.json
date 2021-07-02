@@ -1,0 +1,19 @@
+{
+  "name": "fizz_buzz",
+  "version": "1.0.0",
+  "description": "test developement back end for tcc tunis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haroun-Moujahed/fizzBuzz.git"
+  },
+  "author": "Haroun-Moujahed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Haroun-Moujahed/fizzBuzz/issues"
+  },
+  "homepage": "https://github.com/Haroun-Moujahed/fizzBuzz#readme"
+}
